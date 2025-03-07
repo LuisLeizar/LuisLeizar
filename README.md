@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisLeizar
 - 👀 I’m interested in learn new things
-- 🌱 I’m currently learning ASP, PHP and Angular
+- 🌱 I’m currently learning ASP, React, JS and PHP
 - 💞️ I’m looking to collaborate on projects with learn oportunity
 - 📫 How to reach me -> Vía email: luis_angellm@outlook.com
 
